@@ -85,7 +85,6 @@ A collection of Python frameworks, libraries and software.
     - [Weekly](#weekly)
     - [Twitter](#twitter)
 - [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 ---
 
@@ -1133,16 +1132,3 @@ List of lists.
     * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
     * [lists](https://github.com/jnv/lists)
 
-# [Contributing](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md)
-
-Your contributions are always welcome!
-
-# Upcoming Event
-
-## PyCon APAC 2015
-
-[![PyCon APAC 2015](https://tw.pycon.org/2015apac/images/Logo_red_1280.svg)](https://tw.pycon.org/2015apac/)
-
-#### Tutorials May 30-31, Conference June 5-7, Sprints June 8, Taipei, Taiwan
-
-Mark your calendar now and stay up to date on the must-attend event in 2015. Join the biggest Python conference in Asia. To find more on [https://tw.pycon.org/2015apac/](https://tw.pycon.org/2015apac/).

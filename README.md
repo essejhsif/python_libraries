@@ -1103,6 +1103,8 @@ Where to discover new Python libraries.
 * [Full Stack Python](http://www.fullstackpython.com/) - Plain English explanations for every layer of the Python web application stack.
 * [Django Packages](https://www.djangopackages.com/) - A directory of reusable apps, sites, tools, and more for Django projects.
 
+## Other
+
 ## Weekly
 
 * [Pycoder's Weekly](http://pycoders.com/)

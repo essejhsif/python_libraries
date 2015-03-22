@@ -84,7 +84,7 @@ A collection of Python frameworks, libraries and software.
     - [Websites](#websites)
     - [Weekly](#weekly)
     - [Twitter](#twitter)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other Lists](#other-lists)
 
 ---
 
@@ -1120,7 +1120,7 @@ Where to discover new Python libraries.
 * [@PythonWeekly](https://twitter.com/PythonWeekly)
 * [@pythontrending](https://twitter.com/pythontrending)
 
-# Other Awesome Lists
+# Other Lists
 
 List of lists.
 
@@ -1130,8 +1130,5 @@ List of lists.
     * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
     * [python_reference](https://github.com/rasbt/python_reference)
     * [easy-python](http://easy-python.readthedocs.org/)
-* Monty
-    * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-    * [lists](https://github.com/jnv/lists)
 
 * Have a suggestion? Contact me: jessefish [at] gmail

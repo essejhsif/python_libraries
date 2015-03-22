@@ -1119,7 +1119,7 @@ Where to discover new Python libraries.
 * [@pycoders](https://twitter.com/pycoders)
 * [@PythonWeekly](https://twitter.com/PythonWeekly)
 * [@pythontrending](https://twitter.com/pythontrending)
-* [@essejhsif](https://twitter.com/essejhsif)
+* [@jesse_fish](https://twitter.com/jesse_fish)
 
 # Other Lists
 
